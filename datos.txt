@@ -1,0 +1,10 @@
+Carrera: Diseño y Programación Web
+Materia: Clientes Web Mobile 
+Cuatrimestre: 4to Cuatrimestre
+Año: 2023
+Turno: Mañana
+Comisión: DWM4AH
+Apellido: Cagnoni
+Nombre: Juan Cruz
+Docente: Alejandro Ezequiel Villafañe
+Carácter de entrega: 1er parcial 
